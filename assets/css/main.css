@@ -2408,6 +2408,25 @@ input, select, textarea {
 			padding: 0 1.5em 1em 0;
 			top: 0.25em;
 		}
+		.image.left.udacity img{
+			border-radius: 15px;
+		}
+
+		/* change from width to max-width */
+		.certificate {
+			top: 0.25em;
+			height: 175px;
+			width: 175px;
+			border-radius: 15px;
+			margin: 0 1.6em 0.4em 0;
+			background-image: url("images/pic01\ copy.jpg");
+			display: inline-block;
+			float: left;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+
+		}
 
 		.image.right {
 			float: right;
