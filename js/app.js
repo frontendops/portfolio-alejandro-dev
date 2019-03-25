@@ -4,7 +4,7 @@ import { projects } from './projects.js';
 
 //buttons to filter projects
 
-const buttons = document.querySelector('.btn-container');
+const buttons = document.querySelector('#btn-container');
 
 const projectsBody = document.querySelector(".features");
 
