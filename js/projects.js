@@ -1,9 +1,18 @@
 export const projects = [
    {
+      title: 'Speed Reader',
+      description: "Add any text and read it at a much faster rate.",
+      technology: 'javascript',
+      link: 'https://frontendops.github.io/speed-reader-js/',
+      img: 'images/speed-reader.jpg',
+      alt: 'computer productivity',
+      button: 'Try Demo'
+   },
+   {
       title: 'Productivity Manager',
       description: "Keep track of daily taks and see how much you have accomplished in a day.",
       technology: 'vue',
-      link: 'http://www.easternenvoy.com',
+      link: 'https://vue-task-manager.herokuapp.com/',
       img: 'images/tasks.jpg',
       alt: 'computer productivity',
       button: 'view site'
