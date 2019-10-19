@@ -1,0 +1,10 @@
+.inner__tabs {
+   border-bottom: 2px solid rgba(255, 255, 255, 0.125) !important;
+}
+
+.inner__tab {
+   display: inline-block;
+   border-bottom: 5px solid #53639e;
+   margin: 0;
+   padding: 0 0 1em 0;
+}
